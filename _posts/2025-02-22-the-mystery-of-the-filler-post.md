@@ -3,6 +3,7 @@ layout: post
 title: "致广大中国读者"
 author: "Counta"
 tags: Tale
+excerpt_separator: <!--more-->
 ---
 
 # 致广大中国读者  
