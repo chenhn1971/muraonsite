@@ -12,8 +12,8 @@ $code-color: #bf616a !default;
 
 // Fonts
 $serif-primary: 'Source Han Serif Medium', 'Times New Roman', Times, serif !default;
-$serif-secondary: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
-$sans-serif: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif !default;
+$serif-secondary: 'Source Han Serif', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif !default;
+$sans-serif: 'Source Han Sans', 'Segoe UI', Arial, sans-serif !default;
 $monospaced: Menlo, Monaco, monospace !default;
 
 @mixin box-sizing($type: border-box) {
